@@ -10,7 +10,10 @@ Starting with ReactJS and moving through the MERN Stack, I will complete a serie
     - Name: Todo Mastery
     - Focus: ReactJS basics, Components, JSX, state, and props
     - Description: A simple todo list app that allows users to add, mark as complete, and delete tasks.
-2. Project 2 (coming soon)
+2. [Project 2: Movie Recommendations App](project-2/)
+    - Name: Movie Night
+    - Focus: Consuming external APIs, handling API responses, managing application state, conditional rendering, functional components
+    - Description: A movie recommendation application that allows users to search for movies, view movie details, and receive a list of similar movies as suggestions.
 3. Project 3 (coming soon)
 4. Project 4 (coming soon)
 5. Project 5 (coming soon)
