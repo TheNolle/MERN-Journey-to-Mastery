@@ -1,0 +1,30 @@
+.todo-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 5px;
+
+    &:hover {
+        background-color: #3a3a3a !important;
+    }
+
+    .title {
+        flex-grow: 1;
+        cursor: pointer;
+        width: 100%;
+        word-break: break-word;
+        text-align: justify;
+    }
+
+    .delete {
+        background: none;
+        border: none;
+        padding: 0;
+        margin-left: 10px;
+        cursor: pointer;
+    }
+
+    .completed {
+        text-decoration: red 2.5px line-through;
+    }
+}
