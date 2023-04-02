@@ -49,6 +49,6 @@ Stay connected and follow me on these platforms:
 - Github: https://github.com/thenolle
 - Discord: https://discord.com/invite/86yVsMVN9z
 - Reddit: https://www.reddit.com/user/thenolle
-- Twitter: https://twitter.com/TheNolly_
-- Patreon: https://www.patreon.com/nolly__
-- Ko-Fi: https://ko-fi.com/nolly__
+- Twitter: [https://twitter.com/TheNolly_](https://twitter.com/TheNolly_)
+- Patreon: [https://www.patreon.com/nolly__](https://www.patreon.com/nolly__)
+- Ko-Fi: [https://ko-fi.com/nolly__](https://ko-fi.com/nolly__)
